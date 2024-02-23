@@ -27,7 +27,7 @@ Check out the live site here: [Glamour Haven Website](https://purlour-app.web.ap
 - Backend: Express, Node.js, Firebase
 - Database: MongoDB
 - Authentication: Firebase, JWT
-- Payment Gateways: Stripe, bKash, Nagad, PayPal
+- Payment Gateways: bKash
 
 ## License
 
